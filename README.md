@@ -1,3 +1,3 @@
-Hi! Let me introduce myself, I'm LovePoison, a cybersecurity and ethical hacking student currently diving into the world of Python!
-My goal is to keep learning Python as my future-to-be main programming language to be able to code my own tools and stuff, and of course I'll keep learning about infosec more and more...
-I will be uploading my Python projects as I go, so if you want to teach me something about Python or anything contact me at LovePoison@protonmail.com or through GitHub, I'm always eager to learn!
+Hi! Let me introduce myself, I'm LovePoison, a cybersecurity and ethical hacking student!
+My goal is to code my own tools and stuff (now I'm really focusing on the PinePhone a lot, and I'm also using it as my daily driver 🤩), and of course I'll keep learning about security more and more...
+I will be uploading my projects as I go, so if you want to contribute, discuss or tell me anything contact me at @l0v3p0150n:matrix.org or through GitHub, I'm always eager to learn!
